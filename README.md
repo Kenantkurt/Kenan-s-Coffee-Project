@@ -1,31 +1,53 @@
 # Kenan's Coffee Project
 
-A café management system for handling orders, tables, menu items, and inventory efficiently.
+A simple café management and analysis project showcasing sales metrics, tax calculations, product pricing, and quarterly performance reporting.
 
-## Kenan Cafe Sales and Tax Analysis
+---
 
-For Kenan Cafe, products and prices were determined, and various mathematical calculations were performed for all four quarters of the year. These calculations included:
+## 📊 Kenan Cafe – Sales & Tax Analysis
+
+For **Kenan Cafe**, product prices were defined and detailed sales analysis was performed across all four quarters of the year. The calculations included:
 
 - Total items sold
 - Total sales revenue
-- Minimum and maximum sales values
+- Minimum & maximum sales
 - Average sales
+- Tax per product using a reference-based tax method
 
-A tax rate was established, and using a reference value assignment method, the tax for each product was calculated individually. All calculations were made in US dollars.
+All financial calculations were completed in **USD**.
 
-To improve readability and visual clarity, formatting such as cell colors, fonts, and headings was applied.
+To improve readability, formatting such as cell colors, number formats, and headings was applied.
 
-## Technologies
+---
 
-- Excel / Google Sheets (for demo)
-- Future: Web interface, database, etc.
+## 🛠️ Technologies Used
 
-## Future Work
+- Excel  
+- Google Sheets  
+- *(Future)* Web application + database integration  
 
-- Develop a web interface for live order and inventory management
-- Integrate with a database for persistent data storage
-- Implement advanced analytics and reporting features
+---
 
-## Demo File
+## 🚀 Future Improvements
 
-[Download demo Excel file](./KenanCafeDemo.xlsx) *(replace with actual file name if different)*
+- Build a web interface for tables, orders, and inventory  
+- Add a database for real-time data storage  
+- Implement automated reporting dashboards  
+- Add role-based access (admin, cashier, barista)
+
+---
+
+## 📂 Demo File
+
+After uploading your Excel file to the repository, update this link:
+
+👉 **[Download Demo Excel File](./KenanCafeDemo.xlsx)**  
+*(Rename the filename if needed.)*
+
+---
+
+## 🔖 Topics / Hashtags
+
+`#Excel` `#GoogleSheets` `#DataAnalysis`  
+`#BusinessAnalytics` `#CafeManagement`  
+`#SalesAnalysis` `#TaxCalculation` `#Dashboard`
